@@ -21,8 +21,8 @@ Network Traffic Analysis
 
 Forensics
 
-[Aperi'Solve](https://www.aperisolve.com/) image analyser __
-[StegOnline](https://stegonline.georgeom.net/upload) image steg analizer __
+[Aperi'Solve](https://www.aperisolve.com/) image analyser  
+[StegOnline](https://stegonline.georgeom.net/upload) image steg analizer  
 
 
 Scanning & Reconnaissance
@@ -32,22 +32,22 @@ Log Analysis
 
 Cyptography
 
-[Cachesleuth](https://www.cachesleuth.com/) multi decoder tool, click on multi decoer
-[Dcode.fr](https://www.dcode.fr/cipher-identifier) Identify/recognize the type of encryption/encoding
-[Aconvert](https://www.aconvert.com/analyze.html) file analyser
-[Kleopatra](https://apps.kde.org/en-gb/kleopatra/) For solving PGP and AES Challeneges
+[Cachesleuth](https://www.cachesleuth.com/) multi decoder tool, click on multi decoer  
+[Dcode.fr](https://www.dcode.fr/cipher-identifier) Identify/recognize the type of encryption/encoding  
+[Aconvert](https://www.aconvert.com/analyze.html) file analyser  
+[Kleopatra](https://apps.kde.org/en-gb/kleopatra/) For solving PGP and AES Challeneges  
 
 Webapp
 
-de4js JavaScript Deobfuscator and Unpacker
-Fiddle to get HTML Jaascript abd CSS to run
-SQLMAP automates  detecting and exploiting SQL database injection flaws
+de4js JavaScript Deobfuscator and Unpacker  
+Fiddle to get HTML Jaascript abd CSS to run  
+SQLMAP automates  detecting and exploiting SQL database injection flaws  
 
 Enumeration & Exploitation
 
-Dogbolt  Decompiler Explorer 
+Dogbolt  Decompiler Explorer  
 
 
 Resourseful Websites:
 
- CTF 101 Forensics, Crptography, Web exploitation, Reverse Engineering Binary Exploitation 
+ CTF 101 Forensics, Crptography, Web exploitation, Reverse Engineering Binary Exploitation  
