@@ -2,9 +2,9 @@ CTF TOOLS
 
 Opensource intelligence
 
-[LatLong](https://www.latlong.net/Show-Latitude-Longitude.html) Reverse Geocoding Convert Lat Long to Address __
-[OPENNAV](https://opennav.com/) Aviation Database \n
-[Code Beautify](https://codebeautify.org/decimal-to-ip-converter) Decimal to IP Converter __
+[LatLong](https://www.latlong.net/Show-Latitude-Longitude.html) Reverse Geocoding Convert Lat Long to Address__
+[OPENNAV](https://opennav.com/) Aviation Database--
+[Code Beautify](https://codebeautify.org/decimal-to-ip-converter) Decimal to IP Converter__
 
 Cryptography
 
