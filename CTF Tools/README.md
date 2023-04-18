@@ -2,9 +2,9 @@ CTF TOOLS
 
 Opensource intelligence
 
-[LatLong](https://www.latlong.net/Show-Latitude-Longitude.html) Reverse Geocoding Convert Lat Long to Address \n
+[LatLong](https://www.latlong.net/Show-Latitude-Longitude.html) Reverse Geocoding Convert Lat Long to Address __
 [OPENNAV](https://opennav.com/) Aviation Database \n
-[Code Beautify](https://codebeautify.org/decimal-to-ip-converter) Decimal to IP Converter \n
+[Code Beautify](https://codebeautify.org/decimal-to-ip-converter) Decimal to IP Converter __
 
 Cryptography
 
@@ -20,8 +20,8 @@ Network Traffic Analysis
 
 Forensics
 
-[Aperi'Solve](https://www.aperisolve.com/) image analyser \n
-[StegOnline](https://stegonline.georgeom.net/upload) image steg analizer \n
+[Aperi'Solve](https://www.aperisolve.com/) image analyser __
+[StegOnline](https://stegonline.georgeom.net/upload) image steg analizer __
 
 
 Scanning & Reconnaissance
