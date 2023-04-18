@@ -5,6 +5,7 @@ TOOLS & DOMAINS
 
 [CTF Tools](https://github.com/pendaflex247/CTF-KB/tree/main/CTF%20Tools/README.md)
 
+    This collection of online and offline tools.
 
 [Open Source Intelligence](https://github.com/pendaflex247/CTF-KB/tree/main/Open%20Source%20Intelligence/README.md)
 
@@ -52,4 +53,3 @@ TOOLS & DOMAINS
 
     Enumeration & Exploitation involves identifying actionable vulnerabilities and exploits and utilizing 
     them to bypass security measures in code and compiled binaries.
-
