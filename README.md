@@ -40,16 +40,16 @@ TOOLS & DOMAINS
 
 [Scanning & Reconnaissance](https://github.com/pendaflex247/CTF-KB/tree/main/Scanning%20%26%20Reconnaissance/README.md)
 
-    Scanning & Reconnaissance is about finding and utilizing the right tools to collect information on a target, 
-    such as its services and possible weaknesses.
+    Scanning & Reconnaissance is about finding and utilizing the right tools to collect information on a 
+    target, such as its services and possible weaknesses.
 
 [Enumeration & Exploitation](https://github.com/pendaflex247/CTF-KB/tree/main/Enumeration%20%26%20Exploitation)
 
-    Web Application Exploitation is the act of discovering and using exploitable vulnerabilities to bypass security 
-    measures in online services.
+    Web Application Exploitation is the act of discovering and using exploitable vulnerabilities to bypass 
+    security measures in online services.
 
 [Web Application Exploitation](https://github.com/pendaflex247/CTF-KB/tree/main/Web%20Application%20Exploitation)
 
-    Enumeration & Exploitation involves identifying actionable vulnerabilities and exploits and utilizing them to 
-    bypass security measures in code and compiled binaries.
+    Enumeration & Exploitation involves identifying actionable vulnerabilities and exploits and utilizing 
+    them to bypass security measures in code and compiled binaries.
 
