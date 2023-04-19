@@ -40,13 +40,12 @@ Decoding
 
 Steg
 - [Aperi'Solve](https://aperisolve.fr/) stego/image analysis
-- https://passlok.com/stego/
-- http://diit.sourceforge.net/
-- https://0xrick.github.io/lists/stego/
-- https://github.com/syvaidya/openstego/releases [Openstego from Linkedin course]
-- http://metapicz.com/#landing
-- Cyber Chef https://gchq.github.io/CyberChef/
-- Exif
+- [Stego](https://passlok.com/stego/)
+- [Digital Invisible Ink Toolkit](http://diit.sourceforge.net/) steganography tool that can hide/retrive any sort of file inside a digital image
+- [Steganography tools](https://0xrick.github.io/lists/stego/) List of useful Steg tools
+- [Open Stego](https://github.com/syvaidya/openstego/releases) [Openstego from Linkedin course]
+- [Cyber Chef](https://gchq.github.io/CyberChef/) 
+- [Exif] Kali on terminal
 
 File analyzer
 - [Aconvert](https://www.aconvert.com/analyze.html) file analyser  
