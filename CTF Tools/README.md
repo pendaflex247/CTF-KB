@@ -78,14 +78,14 @@ Offline cracking:
 
 Wordlist  
 
-- Wordlist generator - https://github.com/hashcat/maskprocessor
-- Ophcrack tables - https://ophcrack.sourceforge.io/tables.php
+- [Wordlist generator](https://github.com/hashcat/maskprocessor)
+- [Ophcrack tables](https://ophcrack.sourceforge.io/tables.php) Ophcrack Tables downloads
 - CeWL usage - https://stuffjasondoes.com/2018/07/18/creating-custom-wordlists-for-targeted-attacks-with-cewl/(edited)
 
 ### Log Analysis 
 
-- Log parsing https://www.mysensors.org/build/parser 
-- MongoDB Compase to connect t Database
+- Log parsing https://www.mysensors.org/build/parser  
+- MongoDB Compase to connect t Database  
 
 ### Network Traffic Analysis
 
@@ -114,12 +114,11 @@ Wordlist
 Online Compiler  
 
 - [Dogbolt](https://dogbolt.org/)  Decompiler Explorer 
-- https://www.onlinegdb.com/online_c++_compiler
-- https://www.decompiler.com/
-- https://onlinedisassembler.com/odaweb/sPyXD68e [Pendaflex SSO]
-- Cyber Chef https://gchq.github.io/CyberChef/
-- Programming language idenifier https://dpaste.com/
-- https://dpaste.com/ for code language detection
+- [Decompiler](https://www.onlinegdb.com/online_c++_compiler) C ++  
+- [Decompiler](https://www.decompiler.com/)
+- [Cyber Chef](https://gchq.github.io/CyberChef/)
+- [Programming language idenifier](https://dpaste.com/)
+- [dpaste](https://dpaste.com/) for code language detection
 
 Offilne decomipler Debugging
 
@@ -143,7 +142,7 @@ Offilne decomipler Debugging
 
 - [Verify important training](https://cyber-security.tk/categories/) Cyber Security, Ethical Hacking, Web & Network Auditing, Reverse Engineering
 - [CTF 101](https://ctf101.org/) Forensics, Crptography, Web exploitation, Reverse Engineering Binary Exploitation  
-- https://www.hackers-arise.com/web-app-hacking
+- [Hackers Arise](https://www.hackers-arise.com/web-app-hacking)
 
 ### Recommendation for improving CTF Skills
 
