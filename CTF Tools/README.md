@@ -13,13 +13,13 @@
 - [Morse Code](https://morsecode.world/international/decoder/audio-decoder-adaptive.html) Morse code decoder
 - [Whatword](https://what3words.com/)  Three Word location lookup 
 - [livingatlas](https://livingatlas.arcgis.com/wayback/)  Cached satellite images
-- File Signatures - https://en.wikipedia.org/wiki/List_of_file_signatures
-- More File Signatures - https://www.garykessler.net/library/file_sigs.html
-- Port Info - https://www.speedguide.net/ports.php
-- More tools - https://dnschecker.org/mac-lookup.php(edited)
-- Reverse geolocation https://www.latlong.net/Show-Latitude-Longitude.html [latitude, logitude]
-- Stolen Camera https://www.stolencamerafinder.com/home?searchType=manual
-- BITCOIN TRANSACTION https://blockchair.com/
+- [File Signatures](https://en.wikipedia.org/wiki/List_of_file_signatures) List of file signatures  
+- [More File Signatures](https://www.garykessler.net/library/file_sigs.html) List of file signatures
+- [Port Info](https://www.speedguide.net/ports.php)   
+- [DNS Checker](https://dnschecker.org/mac-lookup.php(edited)) mac address lookup
+- [Latlong](https://www.latlong.net/Show-Latitude-Longitude.html)  Reverse geolocation lookup
+- [Stolen Camera](https://www.stolencamerafinder.com/home?searchType=manual) Stolen Camera finder
+- [BITCOIN TRANSACTION](https://blockchair.com/) Bitcoin transaction tracker
 
 Infrared 
 
