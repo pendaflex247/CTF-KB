@@ -5,14 +5,14 @@
 - [LatLong](https://www.latlong.net/Show-Latitude-Longitude.html) Reverse Geocoding Convert Lat Long to Address  
 - [OPENNAV](https://opennav.com/) Aviation Database  
 - [Code Beautify](https://codebeautify.org/decimal-to-ip-converter) Decimal to IP Converter  
-- archieved sites - https://web.archive.org/
-- incident info - https://blog.talosintelligence.com/
-- HTTP headers - https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers
-- Barcode reader - https://online-barcode-reader.inliteresearch.com/
-- QR code - https://merricx.github.io/qrazybox/
-- Morse Code - https://morsecode.world/international/decoder/audio-decoder-adaptive.html
-- Three Word location lookup - https://what3words.com/
-- Cached satellite images - https://livingatlas.arcgis.com/wayback/
+- [archieved sites](https://web.archive.org/)
+- [incident info](https://blog.talosintelligence.com/)
+- [HTTP headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers) HTTP Header analyzer
+- [Barcode reader](https://online-barcode-reader.inliteresearch.com/) barcode reader 
+- [QR code](https://merricx.github.io/qrazybox/) QRcode reader
+- [Morse Code](https://morsecode.world/international/decoder/audio-decoder-adaptive.html) Morse code decoder
+- [Whatword](https://what3words.com/)  Three Word location lookup 
+- [livingatlas](https://livingatlas.arcgis.com/wayback/)  Cached satellite images
 - File Signatures - https://en.wikipedia.org/wiki/List_of_file_signatures
 - More File Signatures - https://www.garykessler.net/library/file_sigs.html
 - Port Info - https://www.speedguide.net/ports.php
