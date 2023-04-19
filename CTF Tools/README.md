@@ -73,7 +73,7 @@ Online Cracking
 Offline cracking:    
 
 - https://weakpass.com/all-in-one
-- https://cryptokait.com/2020/09/02/taking-password-cracking-to-the-next-level/
+
 
 Wordlist  
 
@@ -142,19 +142,20 @@ Offilne decomipler Debugging
 - [Verify important training](https://cyber-security.tk/categories/) Cyber Security, Ethical Hacking, Web & Network Auditing, Reverse Engineering
 - [CTF 101](https://ctf101.org/) Forensics, Crptography, Web exploitation, Reverse Engineering Binary Exploitation  
 - [Hackers Arise](https://www.hackers-arise.com/web-app-hacking)
+- [Password Cracking](https://cryptokait.com/2020/09/02/taking-password-cracking-to-the-next-level/)
 
 ### Recommendation for improving CTF Skills
 
 Here are many free online ctfs you can join (just note: they are much harder than NCL) that many great cybersecurity professionals play on. I used to always play them, get close to last place, and read all their writeups afterward. I will link a few resources that helped me with general ctf practice and some for specific categories that NCL has. Best of luck for this season.
 	
-- https://ctftime.org/ - has a list of awesome CTFs almost every weekend. Some are very very hard to even do 1 problem others are a bit easier. 
+- [CTF Time](https://ctftime.org/) - has a list of awesome CTFs almost every weekend. Some are very very hard to even do 1 problem others are a bit easier. 
 	
-- https://www.youtube.com/c/LiveOverflow - has many awesome videos on security problems and CTFs. He has a video series that explains many binary exploitation problems 
+- [Live Over Flow](https://www.youtube.com/c/LiveOverflow) - has many awesome videos on security problems and CTFs. He has a video series that explains many binary exploitation problems 
 	
-- https://www.hackthebox.com/ - has a ton of boxes to learn about vulnerabilities and privilege escalation. This one is not too related to NCL-type of questions but the problem-solving skills from this one translate really well into NCL and pen testing if you're going into that.  
+- [HTB](https://www.hackthebox.com/) - has a ton of boxes to learn about vulnerabilities and privilege escalation. This one is not too related to NCL-type of questions but the problem-solving skills from this one translate really well into NCL and pen testing if you're going into that.  
 	
-- https://picoctf.org/ - This is another CTF website but they host a gym that has a lot of problems that you can do anytime!  In terms of notes: here's one of my friends made before he graduated: 
+- [PICO CTF](https://picoctf.org/) - This is another CTF website but they host a gym that has a lot of problems that you can do anytime!  In terms of notes: here's one of my friends made before he graduated: 
 	
-- https://github.com/deviningers/ncl-notes it has a list of tools and things to try out during NCL. Mainly NCL comes down to practice and some pattern recognition. Do a lot of googling on a problem and make sure you learn as much as you can. Also, make sure to have fun!
+- [NCL Notes](https://github.com/deviningers/ncl-notes) it has a list of tools and things to try out during NCL. Mainly NCL comes down to practice and some pattern recognition. Do a lot of googling on a problem and make sure you learn as much as you can. Also, make sure to have fun!
  
 
