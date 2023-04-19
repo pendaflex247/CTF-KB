@@ -23,8 +23,8 @@
 
 Infrared 
 
-- https://www.remotecentral.com/cgi-bin/codes This database features a collection of regular and discrete infrared remote control codes
-- Yamaha IR Hex Converter https://www.yamaha.com/ypab/irhex_converter.asp
+- [Remote Central](https://www.remotecentral.com/cgi-bin/codes) This database features a collection of regular and discrete infrared remote control codes
+- [IR Hex Converter](https://www.yamaha.com/ypab/irhex_converter.asp) Yamaha IR Hex Converter 
 
 ### Cyptography
 
@@ -36,8 +36,7 @@ Decoding
 - [Cachesleuth](https://www.cachesleuth.com/) multi decoder tool, click on multi decoer  
 - [Dcode.fr](https://www.dcode.fr/cipher-identifier) Identify/recognize the type of encryption/encoding/decoding  
 - [Boxentrinq](https://www.boxentriq.com/code-breaking/cipher-identifier) Identify/recognize the type of encryption/encoding/decoding
-- https://cryptii.com/
-- PEM key recovery https://blog.cryptohack.org/twitter-secrets
+- [Cryptii](https://cryptii.com/) online decoder
 
 Steg
 - [Aperi'Solve](https://aperisolve.fr/) stego/image analysis
@@ -49,7 +48,6 @@ Steg
 - Cyber Chef https://gchq.github.io/CyberChef/
 - Exif
 
-
 File analyzer
 - [Aconvert](https://www.aconvert.com/analyze.html) file analyser  
 
@@ -59,6 +57,7 @@ PGP & AES & RSA
 - [RSA Calculator](https://www.cs.drexel.edu/~jpopyack/IntroCS/HW/RSAWorksheet.html) 
 - [RSACTFTool[] https://github.com/Ganapati/RsaCtfTool
 - [RSA Factoria](http://factordb.com/)
+- [PEM key Recovery](https://blog.cryptohack.org/twitter-secrets)  PEM key recovery   
 
 ### Password Cracking
 
