@@ -137,7 +137,7 @@ Offilne decomipler Debugging
 - [AWK cheatsheet](https://www.shortcutfoo.com/app/dojos/awk/cheatsheet)
 
 
-### Resourseful Websites:
+### Resourseful Websites
 
 - [Verify important training](https://cyber-security.tk/categories/) Cyber Security, Ethical Hacking, Web & Network Auditing, Reverse Engineering
 - [CTF 101](https://ctf101.org/) Forensics, Crptography, Web exploitation, Reverse Engineering Binary Exploitation  
