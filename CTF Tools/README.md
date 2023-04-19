@@ -62,12 +62,12 @@ PGP & AES & RSA
 
 Online Cracking
 
-- https://crackstation.net/
-- https://hashes.com/en/decrypt/hash
-- https://www.objectif-securite.ch/en/ophcrack
-- http://rainbowtables.it64.com/
-- hash identifier - https://hashes.com/en/tools/hash_identifier
-- Ophcrack on Kali
+- [Carack Station](https://crackstation.net/) Online Rockyou password cracking
+- [Hashes](https://hashes.com/en/decrypt/hash)
+- [Ophcrack](https://www.objectif-securite.ch/en/ophcrack)
+- [Rainbow Table](http://rainbowtables.it64.com/)
+- [hash identifier](https://hashes.com/en/tools/hash_identifier) 
+- [Ophcrack on Kali]()  
 - [Hash Analyzer](https://www.tunnelsup.com/hash-analyzer/) TunnelsUP
 
 Offline cracking:    
@@ -79,7 +79,7 @@ Wordlist
 
 - [Wordlist generator](https://github.com/hashcat/maskprocessor)
 - [Ophcrack tables](https://ophcrack.sourceforge.io/tables.php) Ophcrack Tables downloads
-- CeWL usage - https://stuffjasondoes.com/2018/07/18/creating-custom-wordlists-for-targeted-attacks-with-cewl/(edited)
+- [CeWL usage](https://stuffjasondoes.com/2018/07/18/creating-custom-wordlists-for-targeted-attacks-with-cewl/(edited)) For creating custom wordlist
 
 ### Log Analysis 
 
